@@ -6,7 +6,7 @@ Key Highlights include:
 
 ⚙️ Data Transformation (ETL) with Power Query- Cleaned, shaped, and prepared the raw data by handling blanks, changing data types, and creating new calculated columns
 
-🔗 Data Modeling- Built relationships across multiple tables including customers, products, stores, and sale returns
+🔗 Data Modeling- Built relationships across multiple tables including sales, customers, products, stores, and sale returns
 
 🧮 DAX Measures- Created custom measures to calculate revenue, profit margin, refund rate, and other key KPIs
 
